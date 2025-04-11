@@ -28,5 +28,6 @@ Built for educational, ethical hacking, and cybersecurity research purposes only
 git clone https://github.com/ya3in3335/spider_brute.git
 cd spider_brute
 sudo apt install tor
+pip install fake_useragent --break-system-packages
 python3 mine.py
 
