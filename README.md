@@ -25,6 +25,7 @@ Built for educational, ethical hacking, and cybersecurity research purposes only
 
 1. **Clone the repository**
 ```bash
+sudo apt update
 git clone https://github.com/ya3in3335/spider_brute.git
 cd spider_brute
 sudo apt install tor
